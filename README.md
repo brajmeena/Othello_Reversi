@@ -1,2 +1,2 @@
-# Othello_Reversi
-Part of COL216 at IIT Delhi
+# Othello_Reversi_Game
+Part of COL216 course at IIT Delhi
